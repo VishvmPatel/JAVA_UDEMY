@@ -5,6 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/00.Notepad/00.Notepad.iml" filepath="$PROJECT_DIR$/00.Notepad/00.Notepad.iml" />
       <module fileurl="file://$PROJECT_DIR$/01.ReadingFromKeyboard/01.ReadingFromKeyboard.iml" filepath="$PROJECT_DIR$/01.ReadingFromKeyboard/01.ReadingFromKeyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/02.ReadingWithScanner/02.ReadingWithScanner.iml" filepath="$PROJECT_DIR$/02.ReadingWithScanner/02.ReadingWithScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.DataTypes/03.DataTypes.iml" filepath="$PROJECT_DIR$/03.DataTypes/03.DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Variables/04.Variables.iml" filepath="$PROJECT_DIR$/04.Variables/04.Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Literals/05.Literals.iml" filepath="$PROJECT_DIR$/05.Literals/05.Literals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.FeaturesAndArchitecture/06.FeaturesAndArchitecture.iml" filepath="$PROJECT_DIR$/06.FeaturesAndArchitecture/06.FeaturesAndArchitecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.ArithmeticOperatorsAndExpressions/07.ArithmeticOperatorsAndExpressions.iml" filepath="$PROJECT_DIR$/07.ArithmeticOperatorsAndExpressions/07.ArithmeticOperatorsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.IncrementAndDecrementOperators/08.IncrementAndDecrementOperators.iml" filepath="$PROJECT_DIR$/08.IncrementAndDecrementOperators/08.IncrementAndDecrementOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.BitwiseOperators/09.BitwiseOperators.iml" filepath="$PROJECT_DIR$/09.BitwiseOperators/09.BitwiseOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.ApplicationsOfBitwiseOperators/10.ApplicationsOfBitwiseOperators.iml" filepath="$PROJECT_DIR$/10.ApplicationsOfBitwiseOperators/10.ApplicationsOfBitwiseOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" filepath="$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" />
     </modules>
   </component>
