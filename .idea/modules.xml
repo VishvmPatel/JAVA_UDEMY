@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/00.Notepad/00.Notepad.iml" filepath="$PROJECT_DIR$/00.Notepad/00.Notepad.iml" />
       <module fileurl="file://$PROJECT_DIR$/01.ReadingFromKeyboard/01.ReadingFromKeyboard.iml" filepath="$PROJECT_DIR$/01.ReadingFromKeyboard/01.ReadingFromKeyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.ReadingWithScanner/02.ReadingWithScanner.iml" filepath="$PROJECT_DIR$/02.ReadingWithScanner/02.ReadingWithScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" filepath="$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" />
     </modules>
   </component>
