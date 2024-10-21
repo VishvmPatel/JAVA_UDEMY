@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/10.ApplicationsOfBitwiseOperators/10.ApplicationsOfBitwiseOperators.iml" filepath="$PROJECT_DIR$/10.ApplicationsOfBitwiseOperators/10.ApplicationsOfBitwiseOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/11.TypesOfPrintStatements/11.TypesOfPrintStatements.iml" filepath="$PROJECT_DIR$/11.TypesOfPrintStatements/11.TypesOfPrintStatements.iml" />
       <module fileurl="file://$PROJECT_DIR$/12.Strings/12.Strings.iml" filepath="$PROJECT_DIR$/12.Strings/12.Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.RegularExpressions/13.RegularExpressions.iml" filepath="$PROJECT_DIR$/13.RegularExpressions/13.RegularExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" filepath="$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" />
     </modules>
   </component>
