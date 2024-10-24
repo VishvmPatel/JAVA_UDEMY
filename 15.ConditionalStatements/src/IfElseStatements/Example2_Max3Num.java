@@ -1,3 +1,5 @@
+package IfElseStatements;
+
 public class Example2_Max3Num {
     public static void main(String[] args)
     {

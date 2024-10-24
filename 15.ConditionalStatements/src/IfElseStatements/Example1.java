@@ -1,3 +1,5 @@
+package IfElseStatements;
+
 import java.util.Scanner;
 //TO CHECK WHETHER THE GIVEN NUMBER IS POSITIVE NEGATIVE OR ZERO.
 public class Example1 {
