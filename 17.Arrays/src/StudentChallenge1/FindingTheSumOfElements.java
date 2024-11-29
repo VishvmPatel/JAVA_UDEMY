@@ -9,7 +9,6 @@ public class FindingTheSumOfElements {
             System.out.print(x+" ");
             sum=sum+x;
         }
-        System.out.println();
-        System.out.println("The sum of the elements is "+sum);
+        System.out.println("\nThe sum of the elements is "+sum);
     }
 }
