@@ -1,4 +1,4 @@
-package Practice;
+package Arrays1D;
 
 public class Example5 {
     public static void main(String[] args) {

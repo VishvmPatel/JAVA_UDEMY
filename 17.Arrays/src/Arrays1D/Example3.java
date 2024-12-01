@@ -1,4 +1,4 @@
-package Practice;
+package Arrays1D;
 
 //PRINTING USING FOR EACH LOOP
 
