@@ -7,7 +7,7 @@ public class Example2 {
         int A[][] = new int[3][4];
         for(int[] x:A){
             for (int y:x){
-                System.out.print(y);
+                System.out.print(y+" ");
             }
             System.out.println();
         }

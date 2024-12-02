@@ -8,7 +8,7 @@ public class Example1 {
         {
             for(int j=0;j<A[0].length;j++)
             {
-                System.out.print(A[i][j]);
+                System.out.print(A[i][j]+" ");
             }
             System.out.println();
         }
