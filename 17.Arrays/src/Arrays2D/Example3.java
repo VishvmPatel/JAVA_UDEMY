@@ -31,6 +31,15 @@ public class Example3 {
         X[1]=new int[3];
         X[2]=new int[8];
 
+        for(int i = 0;i<X.length;i++){
+            for(int j=0;j<X[i].length;j++){
+                System.out.print(X[i][j]+" ");
+            }
+            System.out.println();
+        }
+
+        System.out.println();
+        System.out.println();
 
         //Displaying Array M
         for(int x[]:M)
