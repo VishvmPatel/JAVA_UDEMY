@@ -1,3 +1,5 @@
+package MethodsExample;
+
 import java.util.Scanner;
 public class MaxOfTwoElements {
     static int max (int x , int y){ //CREATION OF A METHOD
