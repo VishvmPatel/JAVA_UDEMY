@@ -1,10 +1,11 @@
 public class Example2 {
-    static void showList(String ...S){
+    static void showList(int start,String ...S){
         for(int i=0;i<S.length;i++){
-            System.out.println(i+1+"."+S[i]);
+            System.out.println(start+"."+S[i]);
+            start++;
         }
     }
     public static void main(String[] args) {
-        showList("John","Smith","Ajay","Ankur");
+        showList(5,"John","Smith","Ajay","Ankur");
     }
 }
