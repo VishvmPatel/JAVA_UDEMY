@@ -9,6 +9,6 @@ public class Example1 {
         show();
         show(10,20,30);
         show(10,20,30,40,50,60,70,80,90,100);
-        show(new int[]{3,5,7,9,11,13,15}); //CREATED AN ARRAY AND PASSED
+        show(3,5,7,9,11,13,15); //CREATED AN ARRAY AND PASSED
     }
 }
