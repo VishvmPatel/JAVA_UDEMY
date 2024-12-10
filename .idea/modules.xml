@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/20.CommandLineArguments/20.CommandLineArguments.iml" filepath="$PROJECT_DIR$/20.CommandLineArguments/20.CommandLineArguments.iml" />
       <module fileurl="file://$PROJECT_DIR$/21.Recursion/21.Recursion.iml" filepath="$PROJECT_DIR$/21.Recursion/21.Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/22.ObjectOrientedProgramming/22.ObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/22.ObjectOrientedProgramming/22.ObjectOrientedProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23.Inheritance/23.Inheritance.iml" filepath="$PROJECT_DIR$/23.Inheritance/23.Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" filepath="$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" />
       <module fileurl="file://$PROJECT_DIR$/TCS/TCS.iml" filepath="$PROJECT_DIR$/TCS/TCS.iml" />
     </modules>
