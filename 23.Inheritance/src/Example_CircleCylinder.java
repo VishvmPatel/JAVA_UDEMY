@@ -1,31 +1,28 @@
 class Circle {
-    private double radius;
-    public Circle( ) {
-        radius =0.0;
-    }
+    public double radius;
     public double area() {
-        return 0;
+        return Math.PI * radius *radius;
     }
     public double perimeter() {
-        return 0;
+        return 2*Math.PI*radius;
+    }
+    public double circumference() {
+        return perimeter();
     }
 }
 class Cylinder extends Circle {
-    private double height;
-    public Cylinder() {
-        height=0.0;
-    }
-    public double volume(){
-        return 0;
+    public double height;
+    public double volume() {
+        return area() * height;
     }
 }
-class Example_CircleCylinder
-{
+class Example_CircleCylinder{
     public static void main(String[] args) {
-        Circle c1=new Circle();
-        Cylinder c2=new Cylinder();
-        System.out.println(c1.area());
-        System.out.println(c2.area());;
-        System.out.println(c2.volume());;
+        Cylinder c=new Cylinder();
+        c.radius=7;
+        c.height=10;
+        System.out.println("Volume "+c.volume());
+        System.out.println("Area "+c.area());
+        System.out.println("Circumference "+c.circumference());
     }
 }
