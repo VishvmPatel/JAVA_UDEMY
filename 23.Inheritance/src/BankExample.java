@@ -33,7 +33,7 @@ class SavingsAccount extends Account {
     // Method to deposit money
     public void deposit(long amt) {
         if (amt > 0) {
-            balance += amt;
+            balance += amt; 
         }
     }
     // Method to withdraw money
