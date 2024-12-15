@@ -11,7 +11,7 @@ class Sub extends Super {
     }
 }
 
-public class OverrideExample {
+public class OverridingExample {
     public static void main(String[] args) {
         Super s=new Sub();
         s.display();
