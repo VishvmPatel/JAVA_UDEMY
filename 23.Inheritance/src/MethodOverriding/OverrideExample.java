@@ -1,5 +1,5 @@
 package MethodOverriding;
-
+//Using DYNAMIC METHOD DISPATCH
 class Super{
     public void display() {
         System.out.println("Super Display");
