@@ -6,7 +6,7 @@ abstract class Super {
     }
     // Non-abstract method
     void meth1() {
-        System.out.println("meth1");
+        System.out.println("Meth1");
     }
     // Abstract method
     abstract void meth2();
@@ -15,7 +15,7 @@ abstract class Super {
 class Sub extends Super {
     // Implementation of the abstract method
     void meth2() {
-        System.out.println("meth2");
+        System.out.println("Meth2");
     }
 }
 class Example {
