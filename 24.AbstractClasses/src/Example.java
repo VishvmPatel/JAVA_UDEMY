@@ -13,6 +13,7 @@ abstract class Super {
 }
 // Concrete class
 class Sub extends Super {
+    @Override
     // Implementation of the abstract method
     void meth2() {
         System.out.println("Meth2");
