@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/22.ObjectOrientedProgramming/22.ObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/22.ObjectOrientedProgramming/22.ObjectOrientedProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/23.Inheritance/23.Inheritance.iml" filepath="$PROJECT_DIR$/23.Inheritance/23.Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/24.AbstractClasses/24.AbstractClasses.iml" filepath="$PROJECT_DIR$/24.AbstractClasses/24.AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25.Interfaces/25.Interfaces.iml" filepath="$PROJECT_DIR$/25.Interfaces/25.Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" filepath="$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" />
       <module fileurl="file://$PROJECT_DIR$/TCS/TCS.iml" filepath="$PROJECT_DIR$/TCS/TCS.iml" />
     </modules>
