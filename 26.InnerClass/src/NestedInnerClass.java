@@ -19,7 +19,7 @@ class Outer {
     }
 }
 
-public class Example {
+public class NestedInnerClass{
     public static void main(String[] args) {
         // Create an instance of Outer class
         Outer o = new Outer();
