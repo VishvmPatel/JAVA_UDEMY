@@ -1,7 +1,5 @@
-package mypack1;
-
 public class Demo{
-	public static void main(String[] args){
+	public void display(){
 		System.out.println("Welcome to my package");
 	}
 }
