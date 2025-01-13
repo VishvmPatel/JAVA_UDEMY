@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/28.Packages/28.Packages.iml" filepath="$PROJECT_DIR$/28.Packages/28.Packages.iml" />
       <module fileurl="file://$PROJECT_DIR$/29.ExceptionHandling/29.ExceptionHandling.iml" filepath="$PROJECT_DIR$/29.ExceptionHandling/29.ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/30.Multithreading/30.Multithreading.iml" filepath="$PROJECT_DIR$/30.Multithreading/30.Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31.JavaLangPackage/31.JavaLangPackage.iml" filepath="$PROJECT_DIR$/31.JavaLangPackage/31.JavaLangPackage.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" filepath="$PROJECT_DIR$/.idea/JAVA_UDEMY.iml" />
       <module fileurl="file://$PROJECT_DIR$/TCS/TCS.iml" filepath="$PROJECT_DIR$/TCS/TCS.iml" />
     </modules>
